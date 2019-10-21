@@ -1,2 +1,2 @@
 # crossword-machine
-This python-written tool generates 
+This python-written tool generates crosswords!
